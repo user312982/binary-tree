@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E5j047zuBFd9OBNMtQ6HB90y70sS7n9OGyKgNOzJoG2lGu2QIGdlZZ1ob8MQx7e443KBNuMqa27xFNrAZnc9BA==",
+  "success": true,
+  "projectFilePath": "/home/izanagi/Documents/code/RedBlackTree/RedBlackTree.csproj",
+  "expectedPackageFiles": [
+    "/home/izanagi/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

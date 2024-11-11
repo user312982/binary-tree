@@ -1,0 +1,14 @@
+/home/izanagi/Documents/code/RedBlackTree/bin/Debug/net8.0/RedBlackTree
+/home/izanagi/Documents/code/RedBlackTree/bin/Debug/net8.0/RedBlackTree.deps.json
+/home/izanagi/Documents/code/RedBlackTree/bin/Debug/net8.0/RedBlackTree.runtimeconfig.json
+/home/izanagi/Documents/code/RedBlackTree/bin/Debug/net8.0/RedBlackTree.dll
+/home/izanagi/Documents/code/RedBlackTree/bin/Debug/net8.0/RedBlackTree.pdb
+/home/izanagi/Documents/code/RedBlackTree/obj/Debug/net8.0/RedBlackTree.GeneratedMSBuildEditorConfig.editorconfig
+/home/izanagi/Documents/code/RedBlackTree/obj/Debug/net8.0/RedBlackTree.AssemblyInfoInputs.cache
+/home/izanagi/Documents/code/RedBlackTree/obj/Debug/net8.0/RedBlackTree.AssemblyInfo.cs
+/home/izanagi/Documents/code/RedBlackTree/obj/Debug/net8.0/RedBlackTree.csproj.CoreCompileInputs.cache
+/home/izanagi/Documents/code/RedBlackTree/obj/Debug/net8.0/RedBlackTree.dll
+/home/izanagi/Documents/code/RedBlackTree/obj/Debug/net8.0/refint/RedBlackTree.dll
+/home/izanagi/Documents/code/RedBlackTree/obj/Debug/net8.0/RedBlackTree.pdb
+/home/izanagi/Documents/code/RedBlackTree/obj/Debug/net8.0/RedBlackTree.genruntimeconfig.cache
+/home/izanagi/Documents/code/RedBlackTree/obj/Debug/net8.0/ref/RedBlackTree.dll
